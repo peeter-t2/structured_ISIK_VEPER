@@ -1,11 +1,11 @@
 # MachineReadable-ISIK
-A machine-readable dataset based on ISIK (Estonian biographical database)
+A machine-readable dataset based on ISIK (Estonian biographical database, Eesti biograafiline andmebaas)
 
 Files:
 * ISIK processing.R - an R script to process the data
 * ISIK main.csv - main data file of the corpus with one row per individual
 
-I needed to collect metainformation for a linguistic corpus in my PhD research and I am working to make the ISIK (Eesti biograafiline andmebaas) biographical database machine-readable. 
+I needed to collect metainformation for a linguistic corpus in my PhD research and I am working to make the ISIK biographical database machine-readable. 
 
 Data is collected via the web-interface, with only the main biographical details kept. The longer biographical overview is split into pieces, and aligned with a few simple heuristics.
 
