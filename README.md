@@ -1,5 +1,5 @@
 # MachineReadable-ISIK
-A machine-readable dataset based on ISIK (Estonian biographical database, Eesti biograafiline andmebaas)
+A machine-readable dataset based on ISIK (Estonian biographical database, Eesti biograafiline andmebaas), main database is maintained by the Archival Library of the Literary Museum here: http://www2.kirmus.ee/biblioserver/isik/index.php
 
 Files:
 * ISIK processing.R - an R script to process the data
